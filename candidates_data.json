@@ -1,0 +1,53 @@
+[
+    {
+        "Candidate_ID": "CAND_20260227131213",
+        "Full_Name": "Chandana H M",
+        "Email_Address": "chandanahm60@gmail.com",
+        "Phone_Number": "06363977935",
+        "Years_of_Experience": 0,
+        "Desired_Position": "developer",
+        "Current_Location": "bangalore",
+        "Technical_Skills": "python, html",
+        "Timestamp": "2026-02-27 13:12:13",
+        "Technical_Answer_1": "gvi",
+        "Technical_Answer_2": "bjhol",
+        "Technical_Answer_3": "vi;",
+        "Technical_Answer_4": "jknj",
+        "Technical_Answer_5": "cui",
+        "AI_Evaluation": "**1. Overall Sentiment:** Negative\n**2. Technical Level:** Beginner (No technical knowledge was demonstrated)\n**3. Hiring Recommendation:** No\n**4. Short Justification:** The candidate provided only random characters (\"gvi\", \"bjhol\", etc.) as answers to all questions. No technical understanding, communication skills, or problem-solving abilities could be evaluated, as no coherent responses were given."
+    },
+    {
+        "Candidate_ID": "CAND_20260227133407",
+        "Full_Name": "Chandana H M",
+        "Email_Address": "chandanahm60@gmail.com",
+        "Phone_Number": "06363977935",
+        "Years_of_Experience": 0,
+        "Desired_Position": "developer",
+        "Current_Location": "bangalore",
+        "Technical_Skills": "python, html",
+        "Timestamp": "2026-02-27 13:34:07",
+        "Technical_Answer_1": "gjmc k",
+        "Technical_Answer_2": "jfkkkk,",
+        "Technical_Answer_3": "gjv,hb.",
+        "Technical_Answer_4": "vmv.",
+        "Technical_Answer_5": "vkhl",
+        "AI_Evaluation": "Here's the evaluation of the candidate:\n\n1.  **Overall Sentiment**: Negative\n2.  **Technical Level**: Beginner\n3.  **Hiring Recommendation**: No\n4.  **Short Justification**: The candidate provided only gibberish or unintelligible responses to all questions, offering no discernable technical answers or explanations. This indicates a complete lack of understanding of the technical concepts presented."
+    },
+    {
+        "Candidate_ID": "CAND_20260227135613",
+        "Full_Name": "Chandana H M",
+        "Email_Address": "chandanahm60@gmail.com",
+        "Phone_Number": "06363977935",
+        "Years_of_Experience": 0,
+        "Desired_Position": "developer",
+        "Current_Location": "bangalore",
+        "Technical_Skills": "python, html",
+        "Timestamp": "2026-02-27 13:56:13",
+        "Technical_Answer_1": "yiog.o",
+        "Technical_Answer_2": "bljp",
+        "Technical_Answer_3": "holhp",
+        "Technical_Answer_4": "bjobnp;",
+        "Technical_Answer_5": "bvhikhp",
+        "AI_Evaluation": "Here's the evaluation of the candidate based on the provided Q&A:\n\n1.  **Overall Sentiment**: Negative\n2.  **Technical Level**: Beginner (No discernible technical level demonstrated)\n3.  **Hiring Recommendation**: No\n4.  **Short Justification**: The candidate provided no coherent or relevant answers to any of the technical questions. Their responses appear to be random character strings, making it impossible to assess any understanding of the concepts."
+    }
+]
