@@ -2,6 +2,7 @@
 
 PROJECT OVERVIEW:
 The AI Hiring Assistant is an intelligent recruitment chatbot built using Streamlit and Google Gemini API. It automates candidate screening by collecting applicant information, generating technical interview questions based on skills, performing sentiment analysis on responses, and securely storing candidate data in CSV and JSON formats.
+
 KEY CAPABILITIES:
 •	Collects candidate information like full name, Email address, location, year of experience, technical skills etc.
 •	Generates skill based technical interview questions.
@@ -9,13 +10,15 @@ KEY CAPABILITIES:
 •	Stores candidate data in CSV and JSON formats.
 •	Maintain conversation context.
 •	Provides fallback handling and privacy notice.
+
 INSTALLATION INSTRUCTIONS:
 1.	Clone the repository from GitHub.
 2.	Create and activate a virtual environment.
 3.	Install required libraries.
 4.	Configure Gemini API key securely using Streamlit secrets.
 5.	Run the application using: streamlit run app.py
-Usage Guide
+
+USAGE GUIDE:
 1.	Click 'Start Interview'.
 2.	Enter candidate details.
 3.	Proceed to Technical Round.
@@ -39,7 +42,8 @@ Prompts were carefully structured to control output quality and ensure relevance
 •	Sentiment Analysis Prompt Design:
 • Returns only one word: Positive, Neutral, or Negative.
 • Avoids long explanations to reduce API token usage.
-Challenges & Solutions
+
+CHALLENGES AND SOLUTIONS.
 1. API Quota Limits (429 Error):
    Solution: Optimized API calls and implemented retry handling.
 2. Streamlit Auto-Rerun Behavior:
@@ -48,7 +52,8 @@ Challenges & Solutions
    Solution: Used Streamlit secrets instead of hardcoding keys.
 4. Maintaining Context:
    Solution: Implemented structured step transitions.
-Future Improvements:
+
+FUTURE ENHANCEMENTS:
 •	Resume PDF upload and parsing
 •	Automatic candidate scoring system
 •	Admin dashboard
